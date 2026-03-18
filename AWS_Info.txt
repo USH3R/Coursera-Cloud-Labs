@@ -1,0 +1,30 @@
+==============================
+AWS Cloud Labs
+==============================
+
+This document provides proof and context for AWS Cloud Labs attempted as part
+of the Coursera Cloud Computing course.
+
+1. Overview
+-----------
+- Labs were performed using Visual Studio Code, PowerShell, and AWS.
+- Tasks included launching EC2 instances, creating security groups, and using key pairs.
+- Original AWS account has been discontinued; some labs cannot be rerun.
+
+2. Proof of AWS Account
+-----------------------
+- Screenshots of AWS Welcome Email, Free Tier activation, and Billing.
+- These files are stored in: Proof_AWS/
+- Screenshots show account number and activity associated with the labs.
+
+3. Notes on Lab Files
+--------------------
+- `lab_cloud_computing` file contains instructions for launching EC2 instances.
+- `requirements.txt` lists supporting Python packages.
+- Test files (e.g., `test.py`) are included for basic functionality.
+
+4. Important
+------------
+- This file is meant to document AWS lab context and proof for record-keeping.
+- Screenshots and `.txt` files collectively demonstrate usage of AWS services
+  even if the original account is no longer accessible.
